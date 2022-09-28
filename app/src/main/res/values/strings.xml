@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">P37S21202222VBA</string>
+    <string name="Titulo">Suma de dos numeros</string>
+    <string name="lnum1">Ingresa el primer numero</string>
+    <string name="lnum2">Ingresa el segundo numero</string>
+    <string name="place1">coloca el numero 1 aqui</string>
+    <string name="place2">coloca el numero 2 aqui</string>
+    <string name="Suma">Sumar</string>
+    <string name="resta">Restar</string>
+    <string name="multiplicacion">Multiplicar</string>
+    <string name="division">Dividir</string>
+    <string name="lresultado">Resultado</string>
+</resources>
